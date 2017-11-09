@@ -2,13 +2,19 @@
 #include <stdio.h>
 
 int main() {
-    printf("Theresa Thoraldson\n\n");
-    // Comment
-    printf("CSCI 1101\n");
-    printf("Introduction to Computing and Problem Solving\n");
-    printf("C Project 1\n\n");
-    // Comment
-    printf("November 7th 2017\n");
+    // variables
+    char name[] = "Theresa Thoraldson";
+    int courseNumber = 1101;
+    char courseTitle[] = "Introduction to Computing and Problem Solving";
+    int projectNumber = 1;
+    char currentDate[] = "November 13th, 2017";
+
+    // print statements
+    printf("%s\n\n", name);
+    printf("%i\n", courseNumber);
+    printf("%s\n", courseTitle);
+    printf("C Project %i\n\n", projectNumber);
+    printf("%s\n", currentDate);
 }
 
 // Output:
@@ -19,4 +25,4 @@ int main() {
 // Introduction to Computing and Problem Solving
 // C Project 1
 //
-// November 7th 2017
+// November 13th 2017
