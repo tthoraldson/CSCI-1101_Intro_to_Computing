@@ -21,7 +21,7 @@ int main() {
 
 // Theresa Thoraldson
 //
-// CSCI 1101
+// 1101
 // Introduction to Computing and Problem Solving
 // C Project 1
 //
