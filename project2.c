@@ -3,17 +3,26 @@
 
 int main() {
     // variable initializations
-    char name[] = "Theresa Thoraldson";
+    char firstName[256];
+    char lastName[256];
     int courseNumber;
     char courseTitle[] = "Introduction to Computing and Problem Solving";
     int projectNumber, currentDay, currentYear;
+
+    // Input First Name
+    printf("Please Enter Your First Name:\n");
+    scanf("%s", firstName);
+
+    // Input Last Name
+    printf("Please Enter Your Last Name:\n");
+    scanf("%s", lastName);
 
     // Input Course Number
     printf("Enter the Course Number:\n");
     scanf("%i", &courseNumber);
 
     // Input C Project Number
-    printf("Enter the C Project Number (Integer)");
+    printf("Enter the C Project Number (Integer):\n");
     scanf("%i", &projectNumber);
 
     // Input Current Day
@@ -25,7 +34,7 @@ int main() {
     scanf("%i", &currentYear);
 
     // print statements
-    printf("%s\n\n", name);
+    printf("\n\n%s %s\n\n", firstName, lastName);
     printf("%i\n", courseNumber);
     printf("%s\n", courseTitle);
     printf("C Project %i\n\n", projectNumber);
@@ -38,6 +47,6 @@ int main() {
 //
 // 1101
 // Introduction to Computing and Problem Solving
-// C Project 1
+// C Project 2
 //
 // November 13th 2017
