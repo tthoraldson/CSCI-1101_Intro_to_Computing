@@ -8,5 +8,5 @@ gcc -o <filename> <filename>.c
 
 Run the file using:
 ```
-
+./<filename>
 ```
