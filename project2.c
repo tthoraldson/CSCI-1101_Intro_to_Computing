@@ -18,11 +18,11 @@ int main() {
     scanf("%s", lastName);
 
     // Input Course Number
-    printf("Enter the Course Number:\n");
+    printf("Please enter the Course Number:\n");
     scanf("%i", &courseNumber);
 
     // Input C Project Number
-    printf("Enter the C Project Number (Integer):\n");
+    printf("Please enter the C Project Number (Integer):\n");
     scanf("%i", &projectNumber);
 
     // Input Current Day
