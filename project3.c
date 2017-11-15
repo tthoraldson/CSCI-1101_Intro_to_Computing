@@ -11,9 +11,7 @@ int main() {
 
     int inputPhrase;
     char tempString[4];
-    int number1;
-    int number2;
-    int number3;
+    int number1, number2, number3;
 
     // logic
     printf("Enter any Three Digit Number:  ");
@@ -23,6 +21,8 @@ int main() {
     number1 = tempString[0];
     number2 = tempString[1];
     number3 = tempString[2];
+
+    printf("%c", number1);
 
 
     // OUTPUT
