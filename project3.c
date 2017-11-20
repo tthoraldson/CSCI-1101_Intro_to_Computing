@@ -15,22 +15,21 @@ int main() {
 
     // logic
     printf("Enter any Three Digit Number:  ");
-    scanf("%i", &inputPhrase);
+    scanf("%d", &inputPhrase);
 
-    sprintf(tempString);
-    number1 = tempString[0];
-    number2 = tempString[1];
-    number3 = tempString[2];
+    printf("%d\n", inputPhrase);
+    number1 = tempPhrase[0];
+    number2 = tempPhrase[1];
+    number3 = tempPhrase[2];
 
-    printf("%c", number1);
+    printf("number1: %c", number1);
 
-
-    // OUTPUT
-    printf("%s\n\n", name);
-    printf("%i\n", courseNumber);
-    printf("%s\n", courseTitle);
-    printf("C Project %i\n\n", projectNumber);
-    printf("%s\n", currentDate);
+//    // OUTPUT
+//    printf("%s\n\n", name);
+//    printf("%i\n", courseNumber);
+//    printf("%s\n", courseTitle);
+//    printf("C Project %i\n\n", projectNumber);
+//    printf("%s\n", currentDate);
 
 
 }
