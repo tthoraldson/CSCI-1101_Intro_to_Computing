@@ -11,11 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="25712a21-9d48-43df-9b19-cd4a8727be51" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project3" afterPath="$PROJECT_DIR$/project3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project3.c" afterPath="$PROJECT_DIR$/project3.c" />
-    </list>
+    <list default="true" id="25712a21-9d48-43df-9b19-cd4a8727be51" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -46,11 +42,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="project3.c" pinned="false" current-in-tab="true">
+      <file leaf-file-name="project3.c" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/project3.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="35" column="51" lean-forward="false" selection-start-line="35" selection-start-column="51" selection-end-line="35" selection-end-column="51" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="39" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="project5.c" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/project5.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -68,8 +74,8 @@
         <option value="$PROJECT_DIR$/project1.c" />
         <option value="$PROJECT_DIR$/project2.c" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/project5.c" />
         <option value="$PROJECT_DIR$/project3.c" />
+        <option value="$PROJECT_DIR$/project5.c" />
       </list>
     </option>
   </component>
@@ -159,12 +165,12 @@
       <workItem from="1509995470757" duration="3935000" />
       <workItem from="1510267641542" duration="8185000" />
       <workItem from="1511810094896" duration="2075000" />
-      <workItem from="1512590299797" duration="2772000" />
+      <workItem from="1512590299797" duration="2931000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16967000" />
+    <option name="totallyTimeSpent" value="17126000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="872" extended-state="0" />
@@ -325,11 +331,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project5.c" />
     <entry file="file://$PROJECT_DIR$/project3.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="35" column="51" lean-forward="false" selection-start-line="35" selection-start-column="51" selection-end-line="35" selection-end-column="51" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="39" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project5.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
