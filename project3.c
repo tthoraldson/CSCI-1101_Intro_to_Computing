@@ -45,7 +45,7 @@ int main() {
 //
 // 1101
 // Introduction to Computing and Problem Solving
-// C Project 1
+// C Project 3
 //
 // November 23rd 2017
 //

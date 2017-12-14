@@ -48,9 +48,12 @@ int main() {
 
 
     // OUTPUT
-//    printf("%s\n\n", name);
-//    printf("%i\n", courseNumber);
-//    printf("C Project %i\n\n", projectNumber);
+    // print statements
+    printf("%s\n\n", name);
+    printf("%i\n", courseNumber);
+    printf("%s\n", courseTitle);
+    printf("C Project %i\n\n", projectNumber);
+    printf("%s\n", currentDate);
 
     printf("List of multiples: ");
     for (int i = 0; i < multiplesCount; i++){
